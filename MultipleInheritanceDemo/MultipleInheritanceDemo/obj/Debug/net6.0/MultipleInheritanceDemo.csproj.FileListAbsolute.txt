@@ -1,0 +1,15 @@
+C:\Users\hp\source\repos\MultipleInheritanceDemo\MultipleInheritanceDemo\bin\Debug\net6.0\MultipleInheritanceDemo.exe
+C:\Users\hp\source\repos\MultipleInheritanceDemo\MultipleInheritanceDemo\bin\Debug\net6.0\MultipleInheritanceDemo.deps.json
+C:\Users\hp\source\repos\MultipleInheritanceDemo\MultipleInheritanceDemo\bin\Debug\net6.0\MultipleInheritanceDemo.runtimeconfig.json
+C:\Users\hp\source\repos\MultipleInheritanceDemo\MultipleInheritanceDemo\bin\Debug\net6.0\MultipleInheritanceDemo.dll
+C:\Users\hp\source\repos\MultipleInheritanceDemo\MultipleInheritanceDemo\bin\Debug\net6.0\MultipleInheritanceDemo.pdb
+C:\Users\hp\source\repos\MultipleInheritanceDemo\MultipleInheritanceDemo\obj\Debug\net6.0\MultipleInheritanceDemo.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\MultipleInheritanceDemo\MultipleInheritanceDemo\obj\Debug\net6.0\MultipleInheritanceDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\MultipleInheritanceDemo\MultipleInheritanceDemo\obj\Debug\net6.0\MultipleInheritanceDemo.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\MultipleInheritanceDemo\MultipleInheritanceDemo\obj\Debug\net6.0\MultipleInheritanceDemo.AssemblyInfo.cs
+C:\Users\hp\source\repos\MultipleInheritanceDemo\MultipleInheritanceDemo\obj\Debug\net6.0\MultipleInheritanceDemo.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\MultipleInheritanceDemo\MultipleInheritanceDemo\obj\Debug\net6.0\MultipleInheritanceDemo.dll
+C:\Users\hp\source\repos\MultipleInheritanceDemo\MultipleInheritanceDemo\obj\Debug\net6.0\refint\MultipleInheritanceDemo.dll
+C:\Users\hp\source\repos\MultipleInheritanceDemo\MultipleInheritanceDemo\obj\Debug\net6.0\MultipleInheritanceDemo.pdb
+C:\Users\hp\source\repos\MultipleInheritanceDemo\MultipleInheritanceDemo\obj\Debug\net6.0\MultipleInheritanceDemo.genruntimeconfig.cache
+C:\Users\hp\source\repos\MultipleInheritanceDemo\MultipleInheritanceDemo\obj\Debug\net6.0\ref\MultipleInheritanceDemo.dll
